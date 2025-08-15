@@ -5,7 +5,7 @@ This Power BI dashboard analyzes TechnoEdge sales data to provide actionable ins
 It is designed for business decision-makers to identify top-performing areas and areas that need improvement quickly.
 
 
-![techno edge dashboard](https://github.com/user-attachments/assets/7ccbf362-1864-429f-a602-d0ad97204637)
+<img width="386" height="224" alt="image" src="https://github.com/user-attachments/assets/4ed82299-0069-4046-8560-421d8445532b" />
 
 
 🎯 Objectives
@@ -17,6 +17,9 @@ Analyze customer segments contributing to revenue
 Track sales and profit trends over time
 
 Provide interactive filters for deep-dive analysis
+
+
+<img width="580" height="231" alt="image" src="https://github.com/user-attachments/assets/eab39e95-6b92-407d-96ca-d62eeddf70da" />
 
 
 
