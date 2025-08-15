@@ -18,7 +18,7 @@ Track sales and profit trends over time
 Provide interactive filters for deep-dive analysis
 
 
-<img width="580" height="231" alt="image" src="https://github.com/user-attachments/assets/eab39e95-6b92-407d-96ca-d62eeddf70da" />
+<img width="407" height="227" alt="image" src="https://github.com/user-attachments/assets/fcb1b8c9-c9ef-4692-b058-381d6567b64b" />
 
 
 
