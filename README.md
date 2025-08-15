@@ -1,14 +1,13 @@
-TechnoEdge Sales Analysis Dashboard – Power BI
+***TechnoEdge Sales Analysis Dashboard – Power BI***
 📌 Project Overview
 
-This Power BI dashboard analyzes TechnoEdge sales data to provide actionable insights into revenue, profit, and customer trends across regions, categories, and segments.
-It is designed for business decision-makers to identify top-performing areas and areas that need improvement quickly.
+***This Power BI dashboard analyzes TechnoEdge sales data to provide actionable insights into revenue, profit, and customer trends across regions, categories, and segments.
+It is designed for business decision-makers to identify top-performing areas and areas that need improvement quickly.***
+
+<img width="578" height="229" alt="image" src="https://github.com/user-attachments/assets/89926917-2fd3-49d2-a0dc-1ec7e4393812" />
 
 
-<img width="386" height="224" alt="image" src="https://github.com/user-attachments/assets/4ed82299-0069-4046-8560-421d8445532b" />
-
-
-🎯 Objectives
+***🎯 Objectives***
 
 Identify top-performing product categories and regions
 
@@ -23,7 +22,7 @@ Provide interactive filters for deep-dive analysis
 
 
 
-📊 Key Metrics (KPIs)
+***📊 Key Metrics (KPIs)***
 Total Sales: 1.827M
 Total Profit: 225K
 Total Quantity Sold: 30K
@@ -31,7 +30,7 @@ Total Discount: 1K
 
 
 
-📈 Key Insights
+***📈 Key Insights***
 
 Technology leads in sales with 673K, followed by Office Supplies (582K) and Furniture (571K)
 
@@ -44,7 +43,7 @@ Sales trends show consistent Q4 growth across 2020–2022
 
 
 
-🛠 Process & Tools
+***🛠 Process & Tools***
 
 Data Cleaning & Transformation – Power Query
 
