@@ -22,11 +22,18 @@ Provide interactive filters for deep-dive analysis
 
 
 
+
+
+
+
 ***📊 Key Metrics (KPIs)***
 Total Sales: 1.827M
 Total Profit: 225K
 Total Quantity Sold: 30K
 Total Discount: 1K
+
+
+
 
 
 
